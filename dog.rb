@@ -16,7 +16,7 @@ class Dog
   end
 end
 
-Dog.new = arthur
+arthur = Dog.new
 puts arthur.name = "Arthur"
 puts athur.breed = "cockapoo mix"
 puts arthur.bark
